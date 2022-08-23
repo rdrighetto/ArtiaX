@@ -89,6 +89,13 @@ will be displayed without the ChimeraX- prefix.
               reference_url="https://relion.readthedocs.io/en/release-3.1/Reference/Conventions.html"
               synopsis="RELION star files"/>
 
+    <Provider name="STOPGAP STAR file"
+              suffixes=".star"
+              category="particle list"
+              nicknames="stopgap,star,motl,motivelist"
+              reference_url="https://github.com/williamnwan/STOPGAP/blob/master/stopgap_0.7.1_doc.pdf"
+              synopsis="STOPGAP star files"/>
+
     <Provider name="Coords file"
               suffixes=".coords"
               category="particle list"
